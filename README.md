@@ -9,7 +9,7 @@
 - 📫 How to reach me: shreekargowda@gmail.com
 - ⚡ Fun fact: I play sports
 
-## Connect with me:
+![Portrait](https://i.gifer.com/Ry6p.gif)
 
 ## Languages and Tools:
 <p align="left">
