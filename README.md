@@ -9,8 +9,6 @@
 - 📫 How to reach me: shreekargowda@gmail.com
 - ⚡ Fun fact: I play sports
 
-![Portrait](https://wallpaperaccess.com/full/8351183.gif)
-
 ## Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
