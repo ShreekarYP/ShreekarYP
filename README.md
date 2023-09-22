@@ -4,7 +4,7 @@
 ## A developer from India
 
 - 🔭 I’m currently working on **Java, Python**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **app development**
 - 📫 How to reach me: shreekargowda@gmail.com
 - ⚡ Fun fact: I play sports
