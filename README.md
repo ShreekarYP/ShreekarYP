@@ -1,7 +1,7 @@
 ![Header](https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif)
 
 # Hi 👋, I'm Shreekar
-## A developer from India
+## A Java developer from India
 
 - 🔭 I’m currently working on **Java, Django**
 - 🌱 I’m currently learning **Java, DSA, JavaDev, Django**
