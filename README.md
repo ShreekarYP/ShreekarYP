@@ -3,8 +3,8 @@
 # Hi 👋, I'm Shreekar
 ## A Java developer from India
 
-- 🔭 I’m currently working on **Java, Django**
-- 🌱 I’m currently learning **Java, DSA, JavaDev, Django**
+- 🔭 I’m currently working on **Java, SpringBoot, Hibernate, JDBC, JPA**
+- 🌱 I’m currently learning **Java, DSA, JavaDev **
 - 📫 How to reach me: shreekargowda@gmail.com
 - ⚡ Fun fact: I play sports
 
